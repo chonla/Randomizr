@@ -5,7 +5,7 @@ String randomizer
 ## API
 
 ```php
-$rand = new Randomizr;  // or
+$rand = new Randomizr;
 ```
 
 Use `number()` to get random string containing only 0 to 9:
